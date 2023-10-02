@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "img": "https://cdni.autocarindia.com/utils/imageresizer.ashx?n=https://cms.haymarketindia.net/model/uploads/modelimages/BMW-2-Series-Gran-Coupe-271220221147.jpg",
+    "name": "Toyota",
+    "model": "KO",
+    "model_year": 2020,
+    "price": 250000,
+    "type": "Automatic",
+    "seats": "4 people",
+    "fuel_type": "Petrol",
+    "mileage": "6.1km/1L"
+  },
+  {
+    "id": 2,
+    "img": "https://cdni.autocarindia.com/utils/imageresizer.ashx?n=https://cms.haymarketindia.net/model/uploads/modelimages/Hyundai-Grand-i10-Nios-200120231541.jpg&w=872&h=578&q=75&c=1",
+    "name": "Honda",
+    "model": "Ci",
+    "model_year": 2019,
+    "price": 200000,
+    "type": "Automatic",
+    "seats": "2 people",
+    "fuel_type": "Hybrid",
+    "mileage": "7.1km/1L"
+  },
+  {
+    "id": 3,
+    "img": "https://imgd.aeplcdn.com/0x0/n/cw/ec/51378/s5-sportback-exterior-right-front-three-quarter-5.jpeg?q=80",
+    "name": "Ford",
+    "model": "RT",
+    "model_year": 2021,
+    "price": 500000,
+    "type": "Automatic",
+    "seats": "4 people",
+    "fuel_type": "Gasoline",
+    "mileage": "2.1km/1L"
+  },
+  {
+    "id": 4,
+    "img": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202002/lamborghini_660_140220101539.jpg",
+    "name": "Ferrari",
+    "model": "XY",
+    "model_year": 2020,
+    "price": 1200000,
+    "type": "Automatic",
+    "seats": "2 people",
+    "fuel_type": "Petrol",
+    "mileage": "8.1km/1L"
+  },
+  {
+    "id": 5,
+    "img": "https://imgd.aeplcdn.com/370x208/n/cw/ec/141867/nexon-exterior-right-front-three-quarter-70.jpeg?isig=0&q=80",
+    "name": "Porsche",
+    "model": "AB",
+    "model_year": 2019,
+    "price": 1800000,
+    "type": "Automatic",
+    "seats": "4 people",
+    "fuel_type": "Hybrid",
+    "mileage": "3.1km/1L"
+  },
+  {
+    "id": 6,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLxSkwhfRx5n1mZP1EgH04eqfpBgFqjy4B-w&usqp=CAU",
+    "name": "Jeep",
+    "model": "CD",
+    "model_year": 2021,
+    "price": 600000,
+    "type": "Automatic",
+    "seats": "2 people",
+    "fuel_type": "Gasoline",
+    "mileage": "7.1km/1L"
+  }
+]
